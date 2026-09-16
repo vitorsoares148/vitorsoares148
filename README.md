@@ -64,7 +64,7 @@ Possui gerenciamento de projetos, membros, permissões, quadros, colunas, tarefa
 
 ---
 
-### 💰 Minha-Grana
+### 💰 Minha Grana
 
 Aplicação full-stack para organização financeira.
 
@@ -88,6 +88,4 @@ Permite acompanhar receitas, despesas, saldo, transações recorrentes e parcela
 
 ## 📫 Contato
 
-[GitHub](https://github.com/vitorsoares148)
-
-<!-- Adicione aqui seu LinkedIn e outros contatos quando quiser. -->
+[Linkedin](https://www.linkedin.com/in/vitor-soares-407b993b6/)
